@@ -1,6 +1,6 @@
 # ASD_ISC
 
-Atypical neural synchronization in the temporal gyrus during face processing in children with autism spectrum disorder (Jeong et al., 2026)
+Atypical neural synchronization in the temporal gyrus during face processing in children with autism spectrum disorder (Jeong et al., 2026) https://doi.org/10.1016/j.biopsycho.2026.109298
 
 The codes for the main analysis are written in Python and adapted from the Dartbrains tutorial: https://naturalistic-data.org/content/Intersubject_Correlation.html
 
